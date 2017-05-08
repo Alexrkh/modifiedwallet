@@ -696,7 +696,8 @@ footer {
     font-weight: 300;
     font-size: 4em; }
   .home-page p {
-    font-size: 1.3em; }
+    font-size: 5em; 
+    color: #3177b8;}
 
 /*** LOGIN PAGE ***/
 .login-page .btn-import {
